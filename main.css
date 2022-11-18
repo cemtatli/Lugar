@@ -222,7 +222,7 @@ nav .menu {
 }
 
 .ongoing-projects-gallery img:hover {
-    border-bottom: 3px solid #1E3240;
+    border-bottom: 3px solid #AFD4E2;
 }
 
 /* Testimonial */
@@ -428,14 +428,10 @@ footer {
 
 .footer-content .menu span {
     margin-bottom: 1rem;
-    font-family: 'Mulish';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 1rem;
     line-height: 1.25rem;
     text-transform: uppercase;
     color: #FFFFFF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
